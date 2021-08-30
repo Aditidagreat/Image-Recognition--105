@@ -1,0 +1,26 @@
+.name_of_objects {
+    color: rgb(19, 28, 153);
+}
+
+#result_object_name {
+    color: teal;
+}
+
+#result_object_accuracy {
+    color: violet;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
